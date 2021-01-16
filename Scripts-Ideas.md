@@ -108,6 +108,15 @@
             - When the input is a keyword and a path to a directory (with option -t):
 
                 Print the occurrences of that keyword **within the text files** located in the given directory
+                
+11. **Sermov Fetcher**
+    - Input
+        - Movie or Series name
+    - Output
+        - IMDb rating, director and year of release 
+    - Notes 
+        - Sermov stands for Series and Movies
+        - The output may include genres, storyline and cast names. 
 
 ## Resources
 
