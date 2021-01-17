@@ -116,7 +116,43 @@
         - IMDb rating, director and year of release 
     - Notes 
         - Sermov stands for Series and Movies
-        - The output may include genres, storyline and cast names. 
+        - The output may include genres, storyline and cast names.        
+
+12. **System Organizer**
+
+    Organize music, documents and video files that placed random in the system
+
+    - Input
+        - $1=path to starting point directory
+    - Output
+        - log file with places of the files in the following format
+
+            ```jsx
+            Music:
+            music files path....
+            Videos:
+            video files path....
+            Documents:
+            Documents files path....
+            ```
+
+13. **KeyLogger**
+    - Input
+        - Directory to store the log file
+            - optional
+    - Output
+        - Log file containing every keystroke stored in the path provided [IF EXISTS] else store it in .
+        
+ 14. **Password manager**
+    This is a password manager script that will store passwords and encrypt them
+    - Input
+        - password to protect the data
+    - Options
+        - (-a) : add a password
+        - (-g): get a password
+        - (-k): assigning a keyword to password in -a and getting the password with -g
+    - Output
+        the password required incase of (-g)       
 
 ## Resources
 
