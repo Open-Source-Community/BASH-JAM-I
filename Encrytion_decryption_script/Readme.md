@@ -1,4 +1,4 @@
-### The script was created by Akram mohamed(https://github.com/Akrammohamed01)
+### The script was created by [Akram mohamed](https://github.com/Akrammohamed01)
 
 ### You choose the number of files you want to encrypt or decrypt, and you enter the files one by one, and the script encrypts them and saves them in the place you want
 
