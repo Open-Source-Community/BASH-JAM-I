@@ -152,7 +152,13 @@
         - (-g): get a password
         - (-k): assigning a keyword to password in -a and getting the password with -g
     - Output
-        the password required incase of (-g)       
+        the password required incase of (-g)     
+        
+15. **Self-Replicating Virus**
+    - Input
+        - The script takes no input
+    - Output
+        - Infects the virus code into all the bash scripts under the . directory
 
 ## Resources
 
