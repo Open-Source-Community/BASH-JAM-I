@@ -1,5 +1,5 @@
 ### Renamer bash script 
-this script renames files in a specific directory **but the files names shouldn't contain spaces**
+Renaming files in a specific directory **but the files names shouldn't contain spaces**
 
 ### Input
 takes 2 inputs/parameters
@@ -8,6 +8,6 @@ takes 2 inputs/parameters
 
 ### Output
 the files renamed according to their date of creation (oldest first) with initial name and the number
-ex: if you have 2 lectures in a directory and the initial name "lecture" you'll have (lecture 1, lecture 2)
+ex: if you have 2 lectures in a directory and the initial name "lecture" you'll have (lecture_1, lecture_2)
 
 by [Martina Gerges](https://github.com/MartinaGerges).
