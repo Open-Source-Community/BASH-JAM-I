@@ -1,5 +1,8 @@
 # BASH-JAM-I
 
+### Collection of simple bash scripts written in a week by the team members.
+
+
 #### This is **BASH-JAM** Version One.
 - BASH-JAM is an idea to practice bash scripting in a competetive way, where you have to create a useful tool in a limited time.
 - BASH-JAM version 1 is for OSC-Linux members only.
